@@ -40,6 +40,6 @@ Handles customer-related operations:
 ```json
 {
   "id": 1,
-  "name": "Setah",
-  "email": "setah9@gmail.com"
+  "name": "Sarah",
+  "email": "sarah@gmail.com"
 }
